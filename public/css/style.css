@@ -1,0 +1,76 @@
+body {
+  background-color: #A1DDAB;
+  color: #523B23;
+};
+
+header {
+  float: left;
+  text-align: center;
+}
+
+h2 {
+  height: 2%;
+  font-size: 40px;
+  text-align: center;
+}
+
+h3 {
+  height: 2%;
+  font-size: 35px;
+  text-align: center;
+}
+
+h1 {
+  font-size: 35px;
+  text-align: center;
+}
+
+button {
+  background-color: #523B23;
+  color: #A1DDAB;
+  border: none;
+  padding: 10px;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.login, .submitButton {
+  float: right;
+  text-align: center;
+  font-size: 15px;
+}
+
+.separator {
+  float: left;
+  width: 100%;
+  height: 5px;
+  background-color: #523B23;
+}
+.navBar {
+  float: left;
+}
+
+.container {
+  background-color: #523B23;
+  color: #A1DDAB;
+  text-align: left;
+  padding: 10px;
+}
+
+a {
+  color: #A1DDAB;
+}
+
+.postContent {
+  width: 75%;
+  height: 100px;
+}
+
+.postTitle {
+  width: 75%;
+}
+
+.restOfPage {
+  padding: 150px;
+}
+
